@@ -1,0 +1,7 @@
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\obj\Debug\ConsoleApp345.csprojAssemblyReference.cache
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\obj\Debug\ConsoleApp345.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\bin\Debug\ConsoleApp345.exe.config
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\bin\Debug\ConsoleApp345.exe
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\bin\Debug\ConsoleApp345.pdb
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\obj\Debug\ConsoleApp345.exe
+C:\Users\Ivica\source\repos\ConsoleApp345\ConsoleApp345\obj\Debug\ConsoleApp345.pdb
